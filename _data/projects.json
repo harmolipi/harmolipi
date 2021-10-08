@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Orthodox Calendar API",
+    "link": "https://github.com/harmolipi/Orthodox-Calendar-API",
+    "start_date": "",
+    "end_date": "",
+    "description": "This is a RESTful API for accessing Orthodox Calendar information for a given calendar date. It's based off of Orthodox Christian REST API, but recreated in Rails.",
+  },
+  {
+    "title": "Flight Booker",
+    "stakeholders": "The Odin Project",
+    "link": "https://github.com/harmolipi/odin-flight-booker",
+    "start_date": "",
+    "end_date": "",
+    "description": "Flight Booker is a web application that allows users to book flights and view their booking information. The application is built with Ruby on Rails, and is one of the Odin Project's learning exercises to practice working with nested forms. The application is hosted on Heroku.",
+  },
+  {
+    "title": "Private Events",
+    "stakeholders": "The Odin Project",
+    "link": "https://github.com/harmolipi/private-events",
+    "end_date": "",
+    "description": "This is The Odin Project's Private Events project. It allows users to create events and invite guests. Only people invited can RSVP to the events."
+  },
+  {
+    "title": "Terminal Chess",
+    "stakeholders": "The Odin Project",
+    "link": "https://github.com/harmolipi/chess",
+    "end_date": "",
+    "description": "This is The Odin Project's Chess project, a 2-player chess game created with Ruby.",
+  },
+  {
+    "title": "Javascript Calculator",
+    "stakeholders": "The Odin Project",
+    "link": "https://github.com/harmolipi/calculator",
+    "end_date": "",
+    "description": "This is The Odin Project's Calculator project - a working calculator created with just Javascript, HTML, and CSS."
+  }
+]
