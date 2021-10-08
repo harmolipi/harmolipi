@@ -1,0 +1,30 @@
+[
+  {
+    "course": "HTML, CSS, JS, Ruby on Rails",
+    "school": "The Odin Project",
+    "start_date": "10-12-2020",
+    "description": "Currently learning full-stack web development. Started with HTML, CSS, JS, and Ruby, and now continuing to learn MVC design with the Rails framework."
+  },
+  {
+    "course": "Data Analytics",
+    "school": "Google Data Analytics Professional Certificate - Coursera",
+    "start_date": "01-06-2021",
+    "description": "Currently learning data analytics skills from asking the right questions to properly cleaning, analyzing, visualizing, and communicating data."
+  },
+  {
+    "course": "Theology",
+    "school": "Holy Cross Greek Orthodox School of Theology",
+    "degree": "Master of Divinity",
+    "start_date": "01-09-2015",
+    "end_date": "20-05-2018",
+    "description": "Studied theology and Byzantine chant, did field work in local parishes and hospitals, and wrote my thesis about architecture."
+  },
+  {
+    "course": "Religious Studies and Human Development",
+    "school": "Hellenic College",
+    "degree": "Bachelor of Arts",
+    "start_date": "01-09-2011",
+    "end_date": "20-05-2015",
+    "description": "Majored in Religious Studies and minored in Human Development. Spent a semester living and studying in Athens, Greece."
+  }
+]
