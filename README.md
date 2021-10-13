@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/1cba277e-4c45-459d-a32e-c920b2cece80.svg)](https://wakatime.com/@1cba277e-4c45-459d-a32e-c920b2cece80)
+
 - 👋 Hi, I’m @harmolipi
 - 👀 I’m interested in web development!
 - 🌱 I’m currently learning web development through [The Odin Project](https://theodinproject.com) and data analysis through Google's course on Coursera.
