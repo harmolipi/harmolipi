@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails through [The Odin Project](https://theodinproject.com) and data analytics through [Google's course](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera**
 
-- 🔭 I’m currently working on [TOP's Social Network project](https://github.com/harmolipi/odin-facebook)
+<!-- - 🔭 I’m currently working on [TOP's Social Network project](https://github.com/harmolipi/odin-facebook) -->
 
 - 🚀 Practicing on [Exercism](https://exercism.org/profiles/harmolipi) and [Codewars](https://www.codewars.com/users/harmolipi) as I learn
 
