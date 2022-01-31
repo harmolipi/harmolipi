@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niko</h1>
-<h3 align="center">An enthusiastic beginning full-stack developer</h3>
+<h3 align="center">Learning full-stack development</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails through [The Odin Project](https://theodinproject.com) and data analytics through [Google's course](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera**
+- 🌱 I’m currently learning **full-stack development** through [The Odin Project](https://theodinproject.com) and [freeCodeCamp](https://www.freecodecamp.org), and **data analytics** through [Google's course](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera
 
 <!-- - 🔭 I’m currently working on [TOP's Social Network project](https://github.com/harmolipi/odin-facebook) -->
 
