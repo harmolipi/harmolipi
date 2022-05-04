@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Niko</h1>
-<h3 align="center">Learning full-stack development</h3>
+<h1 align="center">Hi 👋 I'm Niko</h1>
+<h2 align="center">Junior full-stack developer</h2>
 
 - 🌱 I’m currently learning **full-stack development** through [The Odin Project](https://theodinproject.com) and [freeCodeCamp](https://www.freecodecamp.org), and **data analytics** through [Google's course](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera
 
