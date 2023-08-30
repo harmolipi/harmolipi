@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋 I'm Niko</h1>
-<h2 align="center">Junior full-stack developer</h2>
+<h2 align="center">Full-stack developer</h2>
 
-- 🔭 I’m currently working as a junior full-stack developer
+- 🔭 I’m currently working as a **full-stack developer**
 
-- 🌱 I’m currently continuing to learn **full-stack development** through [The Odin Project](https://theodinproject.com) and [freeCodeCamp](https://www.freecodecamp.org)
+- 🌱 I learned on the job and through [The Odin Project](https://theodinproject.com) and [freeCodeCamp](https://www.freecodecamp.org)
 
-- 🚀 Practicing on [Exercism](https://exercism.org/profiles/harmolipi) and [Codewars](https://www.codewars.com/users/harmolipi) as I learn
+- 🚀 Practicing on [Exercism](https://exercism.org/profiles/harmolipi) and [Codewars](https://www.codewars.com/users/harmolipi) to always keep improving
+
+- 🌳 Starting to learn [Elm](https://elm-lang.org/) and loving it so far
 
 
 <h3 align="left">Connect with me:</h3>
